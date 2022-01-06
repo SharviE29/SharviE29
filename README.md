@@ -1,7 +1,12 @@
-# Sharvi Endait
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sharvi Endait !
 
+  ### I'm
+ 1. A Computer Engineering undergrad at PICT,Pune
+ 2. Currently learning Data structures and algortihms
+ 3. Contributing to Open source
+ 4. Learning application development
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharviE29&show_icons=true&theme=tokyonight)
+### Languages I've used the most
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharviE29&theme=tokyonight)
 
