@@ -6,9 +6,6 @@
  3. Contributing to Open source
  4. Learning application development
 
-### Languages I've used the most
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharviE29&theme=tokyonight)
 
 
 
