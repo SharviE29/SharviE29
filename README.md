@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharvi Endait</h1>
-<h3 align="center">Machine Learning Enthusiast| Mobile App Developer</h3>
+<h3 align="center">Machine Learning Enthusiast | Mobile App Developer</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
