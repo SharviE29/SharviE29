@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharvi Endait</h1>
-<h2 > I'm a final year student at Pune Institute of Computer Technology</h2>
+<h2 alight="center"> I'm a final year student at Pune Institute of Computer Technology</h2>
 <h3 align="center">Machine Learning Enthusiast | Mobile App Developer</h3> | NLP
 
 
