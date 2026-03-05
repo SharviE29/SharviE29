@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sharvi Endait</h1>
-<!-- <h2 align="center"> I'm a final year student at Pune Institute of Computer Technology</h2>
-<h3 align="center">Machine Learning Enthusiast | Mobile App Developer | NLP </h3> -->
+<h1>hi there, i'm sharvi endait</h1>
+<h3 align>-  i'm a first year cs graduate student at umass amherst. </h3>
+<h3 align>- love building secure AI systems, and anything that makes my life easier </h3>
+<h3 align>- love anything that surrounds new tech enterprise ai </h3>
+<h3 align>- trying to make ai secure and better to you after post-training </h3>
+<h3 align>- lets talk about agentic ai, responsible ai, alignment, all things ai and music ofc </h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sharvi_endait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharvi_endait" height="30" width="40" /></a>
 <a href="https://instagram.com/sharveeeendait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharveeeendait" height="30" width="40" /></a>
@@ -19,4 +22,4 @@
  
 
 
-
+ -->
